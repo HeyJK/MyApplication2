@@ -9,6 +9,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         System.out.print("sda");
+        System.out.print("rtet");
         setContentView(R.layout.activity_main);
     }
 }
